@@ -1,6 +1,6 @@
 # 🔧 EAGLEMAP
 
-WOLFCRACK tool is a tool for testing the penetration of wireless networks with WPA/WPA2 encryption and WEP encryption so that through this tool you can know the password for the network and also you can disconnect from connected devices
+EAGLEMAP is tool fot scan network and scan the device on network
 
 ---
 
@@ -22,6 +22,14 @@ WOLFCRACK tool is a tool for testing the penetration of wireless networks with W
 
 - Python
 - Works on: linux / windows / termux
+
+---
+
+## ⚙️ Installation on winodws
+
+1. install zip file
+2. install python
+3. run the code on cmd or vscode ...
 
 ---
 
